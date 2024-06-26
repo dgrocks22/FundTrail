@@ -22,6 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 # secrets
 .env
+=======
+>>>>>>> cfd2113 (Initial commit from npx thirdweb create)
